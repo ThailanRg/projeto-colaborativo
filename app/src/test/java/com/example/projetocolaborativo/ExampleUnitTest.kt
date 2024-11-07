@@ -1,4 +1,4 @@
-package br.com.projetocolaborativo
+package com.example.projetocolaborativo
 
 import org.junit.Test
 

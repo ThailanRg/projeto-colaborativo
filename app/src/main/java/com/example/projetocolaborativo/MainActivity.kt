@@ -1,4 +1,4 @@
-package br.com.projetocolaborativo
+package com.example.projetocolaborativo
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import br.com.projetocolaborativo.ui.theme.ProjetoColaborativoTheme
+import com.example.projetocolaborativo.ui.theme.ProjetoColaborativoTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
