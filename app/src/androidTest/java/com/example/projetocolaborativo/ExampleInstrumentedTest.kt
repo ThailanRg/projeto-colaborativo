@@ -1,4 +1,4 @@
-package br.com.projetocolaborativo
+package com.example.projetocolaborativo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("br.com.projetocolaborativo", appContext.packageName)
+        assertEquals("com.example.projetocolaborativo", appContext.packageName)
     }
 }
