@@ -1,3 +1,8 @@
+# Proposta
+ps: em contrução
+
+Este projeto tem como objetivo ajudar estudantes a ingressar no setor de programação. Eles irão aprender como criar um projeto, desenvolver novas funcionalidades, como funciona o Kanban e tudo o que é utilizado no dia a dia.
+
 # Comandos git
 
 | Comando  | Descrição |
